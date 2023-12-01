@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caracteristicas", "Caracteristicas\Caracteristicas.csproj", "{FF07F967-C969-4C1B-9E66-21FFA82F10CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{87FCF631-EF5C-4910-8515-2A083DFE258B}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Downloads\Logo_Mpcusco_2023-2026.png = ..\..\Downloads\Logo_Mpcusco_2023-2026.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF07F967-C969-4C1B-9E66-21FFA82F10CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF07F967-C969-4C1B-9E66-21FFA82F10CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF07F967-C969-4C1B-9E66-21FFA82F10CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF07F967-C969-4C1B-9E66-21FFA82F10CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF97946C-0822-474F-A953-0F9FB10C3AB3}
+	EndGlobalSection
+EndGlobal
